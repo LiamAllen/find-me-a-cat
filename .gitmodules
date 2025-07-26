@@ -1,3 +1,6 @@
 [submodule "src/Cat-Images-Dataset"]
 	path = src/Cat-Images-Dataset
 	url = https://github.com/AtharvaTaras/Cat-Images-Dataset
+[submodule "src/Cat-Images-Dataset.git"]
+	path = src/Cat-Images-Dataset.git
+	url = https://github.com/AtharvaTaras/Cat-Images-Dataset
