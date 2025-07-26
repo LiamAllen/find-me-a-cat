@@ -1,0 +1,8 @@
+ISSUES
+
+    1. Fix dockerization issues. 
+
+        ERR - Failed to load module script: Expected a JavaScript-or-Wasm module script but the server responded with a MIME type of "text/html". Strict MIME type checking is enforced for module scripts per HTML spec.
+        ERR - index-BD5-jXIq.js:49 Error loading cat image: TypeError: Failed to fetch dynamically imported module: http://localhost:8080/assets//Cat-Images-Dataset/ragdoll%20cat/Image_23.png
+
+    2. Create Startup Script for Windows/Linux
