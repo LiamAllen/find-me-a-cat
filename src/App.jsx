@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import './App.css'
 import catImages from './catImages.json' // Import the JSON file containing cat image paths
-import defaultCatImage from './Cat-Images-Dataset/cat images/Image_1.jpg' // Import a default cat image
-const dir = 'Cat-Images-Dataset'; // Define the image directory path
+import defaultCatImage from './public/Cat-Images-Dataset/cat images/Image_1.jpg' // Import a default cat image
+const dir = 'public/Cat-Images-Dataset'; // Define the image directory path
 
 function App() {
 
