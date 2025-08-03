@@ -1,2 +1,6 @@
 #./src/.slugignore
 # This file determines what should be ignored by the Heroku PAAS compiler. Max slug size after compression is 500MB
+Dockerfile
+/assets
+README.md
+TODO.txt

@@ -5,6 +5,7 @@ import react from '@vitejs/plugin-react'
 // https://thedkpatel.medium.com/dockerizing-react-application-built-with-vite-a-simple-guide-4c41eb09defa
 export default defineConfig({
  base: "/",
+ publicDir: "public",
  plugins: [react()],
  preview: {
   port: 8080,
